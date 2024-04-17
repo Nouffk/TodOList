@@ -12,6 +12,7 @@
 		1E7339B82BD0244D00D36826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E7339B72BD0244D00D36826 /* Assets.xcassets */; };
 		1E7339BB2BD0244D00D36826 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E7339BA2BD0244D00D36826 /* Preview Assets.xcassets */; };
 		1E7339C22BD0269500D36826 /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7339C12BD0269500D36826 /* AddTaskView.swift */; };
+		1E7339C42BD027FA00D36826 /* EidtTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7339C32BD027FA00D36826 /* EidtTaskView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		1E7339B72BD0244D00D36826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E7339BA2BD0244D00D36826 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1E7339C12BD0269500D36826 /* AddTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
+		1E7339C32BD027FA00D36826 /* EidtTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EidtTaskView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				1E7339B32BD0244B00D36826 /* TodoListApp.swift */,
 				1E7339B52BD0244B00D36826 /* ContentView.swift */,
+				1E7339C32BD027FA00D36826 /* EidtTaskView.swift */,
 				1E7339C12BD0269500D36826 /* AddTaskView.swift */,
 				1E7339B72BD0244D00D36826 /* Assets.xcassets */,
 				1E7339B92BD0244D00D36826 /* Preview Content */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E7339C22BD0269500D36826 /* AddTaskView.swift in Sources */,
+				1E7339C42BD027FA00D36826 /* EidtTaskView.swift in Sources */,
 				1E7339B62BD0244B00D36826 /* ContentView.swift in Sources */,
 				1E7339B42BD0244B00D36826 /* TodoListApp.swift in Sources */,
 			);
