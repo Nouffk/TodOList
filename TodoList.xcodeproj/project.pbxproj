@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E537CC12BD0298B00AB195B /* CoreDataManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E537CC02BD0298B00AB195B /* CoreDataManger.swift */; };
 		1E7339B42BD0244B00D36826 /* TodoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7339B32BD0244B00D36826 /* TodoListApp.swift */; };
 		1E7339B62BD0244B00D36826 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E7339B52BD0244B00D36826 /* ContentView.swift */; };
 		1E7339B82BD0244D00D36826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E7339B72BD0244D00D36826 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E537CC02BD0298B00AB195B /* CoreDataManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManger.swift; sourceTree = "<group>"; };
 		1E7339B02BD0244B00D36826 /* TodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E7339B32BD0244B00D36826 /* TodoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListApp.swift; sourceTree = "<group>"; };
 		1E7339B52BD0244B00D36826 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				1E7339B32BD0244B00D36826 /* TodoListApp.swift */,
 				1E7339B52BD0244B00D36826 /* ContentView.swift */,
 				1E7339C32BD027FA00D36826 /* EidtTaskView.swift */,
+				1E537CC02BD0298B00AB195B /* CoreDataManger.swift */,
 				1E7339C12BD0269500D36826 /* AddTaskView.swift */,
 				1E7339B72BD0244D00D36826 /* Assets.xcassets */,
 				1E7339B92BD0244D00D36826 /* Preview Content */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E537CC12BD0298B00AB195B /* CoreDataManger.swift in Sources */,
 				1E7339C22BD0269500D36826 /* AddTaskView.swift in Sources */,
 				1E7339C42BD027FA00D36826 /* EidtTaskView.swift in Sources */,
 				1E7339B62BD0244B00D36826 /* ContentView.swift in Sources */,
